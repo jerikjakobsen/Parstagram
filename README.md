@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 - [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can load past tweets infinitely. (2pts)
 - [x] User can see their profile page with all their post's
 - [x] Post's have the date they were created under the caption
 
